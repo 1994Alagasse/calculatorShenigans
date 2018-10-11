@@ -19,7 +19,8 @@ hs_err_pid*
 *.iml
 *.iws
 
-# Gradle
+# Gradlebuil
+ gradle
 .gradle
 /build/
 
