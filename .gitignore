@@ -21,6 +21,7 @@ hs_err_pid*
 
 # Gradlebuil
  gradle
+ gradlew
 .gradle
 /build/
 
